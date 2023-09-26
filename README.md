@@ -7,7 +7,9 @@ CSS Code Allowed For The X & O Shapes To Be Displayed. (Hover Features Are Also 
 The Javascript Code Allowed Me To Create An Array Of Every Possible Winning Combination In The Game; With A Restart Code Erasing Every Event.
 
 
-![X Wins](https://github.com/JosiasIsZero/Tic-Tac-Toe/assets/105129441/3edae149-c830-4848-a20b-090e048035f4) ![O Wins](https://github.com/JosiasIsZero/Tic-Tac-Toe/assets/105129441/71e0c0a6-f3fe-48ce-997b-acada520c7fe)
+
+![X Wins N](https://github.com/JosiasIsZero/Tic-Tac-Toe/assets/105129441/c89ded57-a69a-4897-a0af-fadfaa297b7f) 
+![O Wins N](https://github.com/JosiasIsZero/Tic-Tac-Toe/assets/105129441/3ecaae7b-5b9a-431e-9fe7-f79f6c923e28)
 
 
 The Draw Is Displayed When Every Cell Has Been Occupied But No Winning Combination Has Been Found.
