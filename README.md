@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
-![Welcome To My TIc-Tac-Toe Project](https://github.com/JosiasIsZero/Tic-Tac-Toe/assets/105129441/95a23f42-eaac-4a6b-be22-a4a3f37d0762)
-Tic Tac Toe Game Built With JavaScript, HTML, CSS.
+Tic Tac Toe Game Built With JavaScript, HTML, CSS. ![Welcome To My TIc-Tac-Toe Project](https://github.com/JosiasIsZero/Tic-Tac-Toe/assets/105129441/95a23f42-eaac-4a6b-be22-a4a3f37d0762)
+
 
 HTML Code Allowed For The Creation Of The Cell Blocks.
 CSS Code Allowed For The X & O Shapes To Be Displayed. (Hover Features Are Also Enable To Know Whos Turn It Is—Better User Experience)
